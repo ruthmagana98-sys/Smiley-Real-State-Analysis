@@ -26,4 +26,4 @@ The final interpretation of the findings, including detailed insights and data v
 
 * **Analysis Notebook (Colab Link):** https://colab.research.google.com/drive/1YVzrc9Y4QtAqIYUoeoYzrhH7KRjg0dlT?usp=sharing
 * **Presentation Slides (Insights):** https://docs.google.com/presentation/d/1ef7K0kK0t3DU7gkFJqccFAfqRkXRfhCt5LCSLC3qGrs/edit?usp=sharing
-* **Local Notebook:** `analysis_notebook.ipynb` (for code review and local adaptation)
+* **Local Notebook:** `SmileyRealState.ipynb` (for code review and local adaptation)
